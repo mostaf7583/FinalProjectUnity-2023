@@ -1,4 +1,3 @@
-Certainly, here's a suggested breakdown of tasks for your team, divided among eight people. Please adjust these tasks based on the strengths and expertise of your team members:
 
 ### Team Member 1:
 - **Task:** Player Character Implementation
