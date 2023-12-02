@@ -48,8 +48,6 @@
   - Implement cheat code functionalities.
 
 ### General Tips:
-- **Collaboration:** Regularly sync with your team to avoid conflicts and ensure seamless integration.
 - **Code Structure:** Use namespaces to prevent script naming conflicts.
 - **Prefab Usage:** Emphasize the use of Prefabs to maintain modularity and avoid scene merging issues.
 
-Feel free to adjust these tasks based on your team's skills and preferences. Regular communication and version control practices will help maintain a smooth workflow.
